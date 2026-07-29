@@ -1,0 +1,215 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+  .container1{
+    display: flex;
+
+    margin: 20px 55px;
+    height: 70px;
+    padding: 20px 20px;
+   align-items: center;
+ 
+  }
+  .logo{
+     height: 32px;
+
+  }
+   .logincart{
+     display: flex;
+     align-items: center;
+     margin-left: auto;
+      gap: 25px;
+
+   }
+    .login,
+     .cart{
+        display: flex;
+       flex-direction:column ;
+       font-size: 20px;
+
+     }
+
+      .d2{
+         
+         height: 35px;
+         width: 700px;
+         border-radius: 8px;
+         padding-left: 45px;
+         margin-left: 200px;
+      }
+     
+     .done{
+       flex-direction: column;
+       margin-left: 10px;
+       font-size: 25px;
+     }
+      .bolt-icon{
+         margin-left: 20px;
+      }
+       .search-bar{
+         position: relative;
+       }
+       .search-icon{
+        position: absolute;
+    left: 220px;
+    top: 50%;
+      transform: translateY(-50%);
+    color: gray;
+       }
+      .container2{
+         display: flex;
+          margin-left: 150px;
+          margin-top: 20px;
+           gap: 20px;
+           
+      }
+       .bone{
+         display: flex;
+        font-size: 23px;
+        cursor: pointer;
+       }
+       .iconone{
+         margin-right: 10px;
+       }
+       .container3{
+         display: flex;
+         gap: 20px;
+         margin-left: 100px;
+         margin-top: 20px;
+         cursor: pointer;
+       }
+         .bone:hover{
+           color: purple;
+           
+         }
+       .b{
+         height: 139px;
+         width: 148px;
+         border: 2px solid #F7F7F7;
+       }
+        .container3  img{
+         height: 139px;
+         width: 148px;
+
+       }
+        .container4{
+           display: flex;
+           gap: 15px;
+           margin-top: 50px;
+           margin-left: 100px;
+           cursor: pointer;
+           
+        }
+             .hero1{
+               height: 250px;
+               width: 474px ;
+                
+               background-color: #EEE0FF;
+              
+               border-radius: 40px;
+               
+               
+             }
+              .hero2{
+               height: 250px;
+               width: 474px ;
+                background-color: #CAEDF1;
+               border-radius: 40px;
+              
+               
+             }
+              .hero2 img{
+                  height: 250px;
+               width: 474px ;
+              }
+              .hero1 img{
+                  height: 250px;
+               width: 474px ;
+              }
+            .laundry{
+               margin-left: 50px;
+               font-size: 40px;
+            }
+               .container5{
+                 display: flex;
+                   gap: 15px;
+           margin-top: 50px;
+           margin-left: 100px;
+           cursor: pointer;
+                 
+               }
+
+         .lone{
+           height: 310px;
+           width: 140px;
+            position: relative;
+         
+         }
+         .container5 img{
+           width: 140px;
+           height: 140px;
+           border: 1px solid #c1c6cf;
+           border-radius: 5px;
+          
+         }
+         .price{
+           height: 30px;
+           width: 140px;
+           margin-top: 3px;
+         }
+         .pricee{
+           height: 50px;
+           width: 30px;
+           background-color: #329537;
+           padding: 4px 6px;
+           font-size: 16px;
+           color: white;
+           border-radius: 6px;
+         }
+         .cut{
+           font-size: 14px;
+           text-decoration: line-through;
+           color: #586274;
+         }
+         .per{
+           font-size: 13px;
+           color: #329537;
+         }
+         .pd{
+          font-size: 13px;
+          color: #586274;
+          margin-top: 3px;
+         }
+         .starr{
+            font-size: 12px;
+            color: #329537;
+            background-color: #E9FAEF;
+         }
+         .star{
+            color: #329537;
+            font-size: 12px;
+         }
+          .rate{
+             font-size: 12px;
+             color: #586274;
+          }
+          .rating{
+             margin-top: 4px;
+          }
+          .productname{
+             margin-top: 3px;
+          }
+           .add{
+             height: 32px;
+             width: 56px;
+             color: #F9105E;
+             border-radius: 7px;
+             border: 2px solid #f9105E;
+             background-color: #FFFF;
+             position: absolute; 
+               right: 5px;
+    bottom: 170px;
+             
+           }
+          
