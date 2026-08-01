@@ -69,6 +69,9 @@
         font-size: 23px;
         cursor: pointer;
        }
+        .bone a {
+           text-decoration: none;
+        }
        .iconone{
          margin-right: 10px;
        }
@@ -130,6 +133,7 @@
             .laundry{
                margin-left: 50px;
                font-size: 40px;
+               margin-top: 20px;
             }
                .container5{
                  display: flex;
